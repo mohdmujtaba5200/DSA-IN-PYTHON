@@ -16,6 +16,8 @@ This repository tracks my core algorithm implementations, complexity analyses, a
 ### 📌 Topic 03: Arrays & Hashing
 * **`05_two_sum.py`** - $O(N)$ hash map implementation to identify pair indices matching a target sum.
 * **`06_valid_anagram.py`** - $O(N)$ character frequency mapping to determine valid string anagrams.
+* `07_contains_duplicate.py` - $O(N)$ hash set implementation to detect duplicate values in an array.
+* `08_group_anagrams.py` - $O(N \cdot K \log K)$ hash map implementation utilizing normalized sorting keys to group anagram strings.
 *
   
 
